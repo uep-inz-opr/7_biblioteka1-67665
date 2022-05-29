@@ -1,6 +1,3 @@
-import datetime
-
-import self as self
 class Ksiazka:
  def __init__(self,lista):
   self.lista=lista
